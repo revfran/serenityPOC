@@ -1,2 +1,3 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Search by keyword story","Search results should show the search term in the title","SUCCESS","2019-02-09T23:05:42.419Z[Europe/London]","0.0","8.57"
+"Enter comment story","Wrong email should show an error message","SUCCESS","2019-02-10T20:22:09.374Z[Europe/London]","0.0","43.24"
+"Enter comment story","Right email should show a confirmation message","FAILURE","2019-02-10T20:22:54.559Z[Europe/London]","0.0","36.87"

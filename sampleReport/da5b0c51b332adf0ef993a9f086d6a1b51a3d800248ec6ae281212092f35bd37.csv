@@ -1,3 +1,2 @@
 "Story","Title","Result","Date","Stability","Duration (s)"
-"Enter comment story","Wrong email should show an error message","SUCCESS","2019-02-10T20:22:09.374Z[Europe/London]","0.0","43.24"
 "Enter comment story","Right email should show a confirmation message","FAILURE","2019-02-10T20:22:54.559Z[Europe/London]","0.0","36.87"

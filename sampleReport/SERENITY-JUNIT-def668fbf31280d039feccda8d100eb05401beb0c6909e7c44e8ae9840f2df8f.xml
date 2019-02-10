@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="com.revfran.serenityPOC.features.comments.EnterCommentStory" skipped="0" tests="2" time="80.11" timestamp="2019-02-10T20:22:09.374Z[Europe/London]"><testcase classname="com.revfran.serenityPOC.features.comments.EnterCommentStory" name="Wrong email should show an error message"/><testcase classname="com.revfran.serenityPOC.features.comments.EnterCommentStory" name="Right email should show a confirmation message"><failure message="&#10;Expected: a string containing &quot;Sample Page&quot;&#10;     but: was &quot;Wayback Machine&quot;" type="java.lang.AssertionError">
+Expected: a string containing "Sample Page"
+     but: was "Wayback Machine"</failure><system-err>
+Expected: a string containing "Sample Page"
+     but: was "Wayback Machine"
+com.revfran.serenityPOC.features.comments.EnterCommentStory.right_email_should_show_a_confirmation_message(EnterCommentStory.java:82)
+</system-err></testcase></testsuite>
